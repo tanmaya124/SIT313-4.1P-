@@ -1,0 +1,21 @@
+
+.my-container {
+  text-align: center;
+}
+
+
+.my-header {
+  background-color: #8cd264; 
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(12px + 2vmin);
+  color: #669dad; 
+}
+
+
+.my-link {
+  color: #00aaff; 
+}

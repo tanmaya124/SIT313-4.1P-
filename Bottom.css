@@ -1,0 +1,21 @@
+.container {
+  background-color: rgb(175, 214, 146);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+
+input[type="email"] {
+  padding: 10px;
+  width: 60%;  
+  border: 1px solid black;
+}
+
+
+button {
+  padding: 10px 20px;
+  color: black;
+  border: 1px solid black;
+}
