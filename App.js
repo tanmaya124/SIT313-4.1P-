@@ -25,13 +25,13 @@ function List() {
             </div>
             <Button> See all articles</Button>
 
-            {/* <h1>Featured Tutorials </h1> */}
+             <h1>Featured Tutorials </h1> 
             
             <div className='row'>
                 {staffList.slice(3,6).map(cardComponent)}
 
             </div>
-            {/* <Button> See all tutorials</Button> */}
+             <Button> See all tutorials</Button> 
         </div>
         
 
