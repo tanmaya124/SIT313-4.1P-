@@ -13,7 +13,6 @@ import { Button } from 'semantic-ui-react'
     position={staff.position}
     rating={staff.rating}
     author={staff.author}
-    Auther = {staff.Auther}
 />
  }
 function List() {
